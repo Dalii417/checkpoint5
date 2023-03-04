@@ -1,0 +1,145 @@
+*{font-family: 'Roboto', sans-serif;
+}
+
+
+.B1{
+    margin-left: 78%;
+    margin-top: -3%;
+
+}
+.B2{
+    margin-left: 4%;
+    margin-top: -35px;
+    color: #00b39b;
+    font-family: Work Sans,Arial,sans-serif;
+    font-weight: 300;
+    letter-spacing: -.3px;
+}
+.i6{
+    margin-left: 45%;
+    margin-top: 2%;
+}
+.b3{
+    margin-left: 22%;
+    margin-top: 2%;
+    font-size: 35px;
+    color: #00b39b;
+    font-family: Work Sans,Arial,sans-serif;
+    font-weight: 300;
+    letter-spacing: -.3px;
+}
+.n1{
+    color: #747474;
+    width: 35%;
+    font-size: 20px;
+    font-family: bold;
+        
+}
+.p23{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;   
+    
+}
+.b5{ margin-left: 33%;
+    margin-top: 2%;
+    font-size: 35px;
+    color: #00b39b;
+    font-family: Work Sans,Arial,sans-serif;
+    font-weight: 300;
+    letter-spacing: -.3px;}
+
+
+    button:hover{
+        background-color: #123666;
+    }
+    .n2{
+        
+        margin-left: 9%;
+    margin-right: 7%;
+    }
+
+
+    .m4{
+        padding-right: 6%;
+    }
+
+    .m5{
+        padding-right: 6%;
+    }
+
+    
+    .p9{
+        box-shadow: 0 4px 8px 0 gray;
+        cursor: pointer;
+    }
+    .CA12{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+
+    }
+    button{
+        color: white;
+        background-color: #3d83df;
+        padding: 0.8%;
+        border: none;
+        outline: none;
+        border-radius: 4px;
+        cursor:pointer;
+
+    }
+   
+button-hover{
+    background-color: #1b222b;
+
+}
+
+    .align-button{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 1%;
+        
+    }
+   
+ .img-country{
+    width: 100%;
+ }
+
+ .country-card{
+    width: 25%;
+    margin-left: 3%;
+    margin-radius: 8px;
+ }
+
+ .img-country:hover{
+    box-shadow: 0 4px 8px 0 gray;
+    cursor:pointer; 
+}
+
+.word{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.h1{
+    margin-left: 31%;
+    margin-top: 1%;
+    font-size: 33px;
+    font-family: Work Sans,Arial,sans-serif
+}
+
+.nb2{ margin-left: 43%;
+    margin-top: -1%
+}
+
+
+.ja5{
+    font-size: 12px;
+    color: #ababab;
+    margin-left: 20%;
+    margin-top: 8%;
+}
